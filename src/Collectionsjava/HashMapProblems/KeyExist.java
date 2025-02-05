@@ -1,4 +1,4 @@
-package Collectionsjava;
+package Collectionsjava.HashMapProblems;
 
 import java.util.HashMap;
 import java.util.Iterator;
