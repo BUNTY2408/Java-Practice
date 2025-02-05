@@ -11,6 +11,7 @@ public class KeyExist {
        mp.put(1,"bunty");
        mp.put(2,"akssh");
        mp.put(3,"karan");
+       mp.put(4,"now");
        int key=2;
        boolean check=false;
        Iterator<Map.Entry<Integer,String>> iterator=mp.entrySet().iterator();
